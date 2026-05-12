@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="years_old">%d years old</string>
+    <string name="about">About</string>
+    <string name="expand">Expand</string>
+    <string name="collapse">Collapse</string>
+
+    <!-- Dog Names -->
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+
+    <!-- Dog Descriptions -->
+    <string name="dog_description_1">The fun-loving Koda is a happy and energetic Golden Retriever. He loves to go on hikes, swim in the lake, and play catch with his favorite people.</string>
+    <string name="dog_description_2">The old soul Lola is a serious but loving Poodle. She likes to spend time with her grandparent, to read, and to make tea.</string>
+    <string name="dog_description_3">The beloved Frankie is a beloved Golden Retriever. He loves to go on walks with his mom, to nap, and to eat his favorite kibble.</string>
+    <string name="dog_description_4">The brave Nox is a fearless and loving Dachshund. He loves to play with other dogs, bark at squirrels, and sleep in the sun.</string>
+    <string name="dog_description_5">The curious Faye is a curious and playful Corgi. She loves to explore, to play with her toys, and to curl up and take a nap.</string>
+    <string name="dog_description_6">The sweet Bella is a gentle and loving Labrador Retriever. She loves to go on walks, to swim in the pool, and to cuddle with her owners.</string>
+    <string name="dog_description_7">The outgoing Moana is an outgoing and friendly Husky. She loves to play, to run in the park, and to howl at the moon.</string>
+    <string name="dog_description_8">The spirited Tzeitel is a spirited and playful Shih Tzu. She loves to play with her toys, to go on walks, and to eat her favorite treats.</string>
+    <string name="dog_description_9">The lovable Leroy is a lovable and fun-loving Beagle. He loves to sniff around the yard, to play fetch, and to eat his favorite snacks.</string>
+</resources>

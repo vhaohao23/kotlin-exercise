@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Blur-O-Matic</string>
+    <string name="description_image">Cupcake image</string>
+    <string name="blur_level">Blur Level</string>
+    <string name="no_blur">No Blur</string>
+    <string name="low_blur">Low Blur</string>
+    <string name="medium_blur">Medium Blur</string>
+    <string name="high_blur">High Blur</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="see_file">See File</string>
+    <string name="processing">Processing image...</string>
+</resources>
